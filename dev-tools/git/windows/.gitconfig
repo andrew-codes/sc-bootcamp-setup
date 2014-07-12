@@ -1,6 +1,6 @@
 [user]
-	name =
-	email = Andrew@WeAreSoftwareCraftsmen.com
+	name = {{ name }}
+	email = {{ email }}
 
 [alias]
 	co = checkout
